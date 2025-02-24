@@ -1,3 +1,4 @@
+[Online_Sales_Data (2).pdf](https://github.com/user-attachments/files/18944074/Online_Sales_Data.2.pdf)
 # online-sales-visualization
 
 I created a report using an online customer sales data with Google looker studio. The report shows the stats for total revenue, average purchase value and number of purchases so the company can keep track of it. I also used different charts to make the report more creative and pleasing. With this, the company can make more accurate predictions for the good of the business.
